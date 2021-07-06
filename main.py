@@ -39,9 +39,9 @@ async def start_handler(bot: Client, event: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Support Group", url="https://t.me/DevsZone"),
-                 InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")],
-                [InlineKeyboardButton("Developer - @AbirHasan2005", url="https://t.me/AbirHasan2005")]
+                [InlineKeyboardButton("Movie Group", url="https://t.me/MoviZenix"),
+                 InlineKeyboardButton("Updates Channel", url="https://t.me/MoviZenX")],
+                [InlineKeyboardButton("Developer - Saikat", url="https://t.me/AnnihilusOP")]
             ]
         )
     )
